@@ -1,4 +1,4 @@
-# Line of Bussiness apps for IT Pros
+# Line of Business apps for IT Pros
 
 This is the PowerPoint used in the Line of Bussiness apps for IT Pros workshops
 
